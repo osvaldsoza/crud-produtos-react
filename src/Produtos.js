@@ -34,6 +34,7 @@ class Produtos extends Component {
             this.refs.categoria.value = ''
         }
     }
+    
     handleEditCategoria(key) {
         if (key.keyCode === 13) {
             this.props.editCategoria(
