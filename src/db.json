@@ -1,0 +1,67 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "nome": "Cerveja",
+      "categoria": 3
+    },
+    {
+      "id": 5,
+      "nome": "Refrigerante",
+      "categoria": 3
+    },
+    {
+      "id": 7,
+      "nome": "Xbox One",
+      "categoria": "4"
+    },
+    {
+      "nome": "Controle Wifi Xbox One",
+      "categoria": "4",
+      "id": 9
+    },
+    {
+      "nome": "Vinho",
+      "categoria": "3",
+      "id": 10
+    },
+    {
+      "nome": "SSD 460GB",
+      "categoria": "4",
+      "id": 11
+    },
+    {
+      "nome": "Detergente",
+      "categoria": "1",
+      "id": 14
+    },
+    {
+      "nome": "Sabonete",
+      "categoria": "1",
+      "id": 15
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimento"
+    },
+    {
+      "id": 3,
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 4,
+      "categoria": "Eletrônicos"
+    }
+  ]
+}
